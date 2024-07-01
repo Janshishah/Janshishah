@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janshishah
-- 👀 I’m interested in ...Python
+
 
 
 <!---
